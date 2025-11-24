@@ -1,4 +1,3 @@
-import 'package:http/http.dart' as http;
 
 class PostModel {
   int? id;
@@ -17,3 +16,4 @@ class PostModel {
     );
   }
 }
+
